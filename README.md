@@ -1,1 +1,1 @@
-This is a RF transceiver ATA driver project:
+This is a RF transceiver ATA driver project
